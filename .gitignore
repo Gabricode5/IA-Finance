@@ -1,0 +1,9 @@
+# Données volumineuses
+transactions.csv
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Images générées
+*.png
