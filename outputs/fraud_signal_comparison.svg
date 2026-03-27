@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500">
 <rect width="100%" height="100%" fill="#fcfbf7"/>
-<text x="500.0" y="38" font-size="24" text-anchor="middle" font-weight="bold">Comparaison des signaux entre normal et fraude</text>
+<text x="500.0" y="38" font-size="24" text-anchor="middle" font-weight="bold">Signaux de fraude</text>
 <line x1="90" y1="400" x2="970" y2="400" stroke="#444" stroke-width="2"/>
 <line x1="90" y1="70" x2="90" y2="400" stroke="#444" stroke-width="2"/>
 <rect x="760" y="22" width="18" height="18" fill="#5b8c5a" rx="4" />

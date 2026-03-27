@@ -3,7 +3,7 @@
 <text x="450.0" y="38" font-size="24" text-anchor="middle" font-weight="bold">Distribution des classes</text>
 <line x1="100" y1="350" x2="870" y2="350" stroke="#444" stroke-width="2"/>
 <line x1="100" y1="70" x2="100" y2="350" stroke="#444" stroke-width="2"/>
-<rect x="100" y="70.00" width="340" height="280.00" fill="#5b8c5a" rx="6" /><rect x="480" y="294.97" width="340" height="55.03" fill="#5b8c5a" rx="6" />
-<text x="270.00" y="390" font-size="15" text-anchor="middle">Normal</text><text x="650.00" y="390" font-size="15" text-anchor="middle">Fraude</text>
-<text x="270.00" y="60.00" font-size="14" text-anchor="middle">41 787</text><text x="650.00" y="284.97" font-size="14" text-anchor="middle">8 213</text>
+<rect x="100" y="70.00" width="340" height="280.00" fill="#5b8c5a" rx="6" /><rect x="480" y="154.90" width="340" height="195.10" fill="#5b8c5a" rx="6" />
+<text x="270.00" y="390" font-size="15" text-anchor="middle">0</text><text x="650.00" y="390" font-size="15" text-anchor="middle">1</text>
+<text x="270.00" y="60.00" font-size="14" text-anchor="middle">11 787</text><text x="650.00" y="144.90" font-size="14" text-anchor="middle">8 213</text>
 </svg>
