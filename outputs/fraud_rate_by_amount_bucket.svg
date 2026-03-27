@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420">
+<rect width="100%" height="100%" fill="#fcfbf7"/>
+<text x="450.0" y="38" font-size="24" text-anchor="middle" font-weight="bold">Taux de fraude par tranche de montant</text>
+<line x1="100" y1="350" x2="870" y2="350" stroke="#444" stroke-width="2"/>
+<line x1="100" y1="70" x2="100" y2="350" stroke="#444" stroke-width="2"/>
+<rect x="100" y="347.76" width="86" height="2.24" fill="#8b6f47" rx="6" /><rect x="226" y="348.94" width="86" height="1.06" fill="#8b6f47" rx="6" /><rect x="352" y="346.48" width="86" height="3.52" fill="#8b6f47" rx="6" /><rect x="478" y="342.26" width="86" height="7.74" fill="#8b6f47" rx="6" /><rect x="604" y="243.31" width="86" height="106.69" fill="#8b6f47" rx="6" /><rect x="730" y="70.00" width="86" height="280.00" fill="#8b6f47" rx="6" />
+<text x="143.00" y="390" font-size="15" text-anchor="middle"><1k</text><text x="269.00" y="390" font-size="15" text-anchor="middle">1k-10k</text><text x="395.00" y="390" font-size="15" text-anchor="middle">10k-100k</text><text x="521.00" y="390" font-size="15" text-anchor="middle">100k-1M</text><text x="647.00" y="390" font-size="15" text-anchor="middle">1M-10M</text><text x="773.00" y="390" font-size="15" text-anchor="middle">10M+</text>
+<text x="143.00" y="337.76" font-size="14" text-anchor="middle">0.04%</text><text x="269.00" y="338.94" font-size="14" text-anchor="middle">0.02%</text><text x="395.00" y="336.48" font-size="14" text-anchor="middle">0.06%</text><text x="521.00" y="332.26" font-size="14" text-anchor="middle">0.14%</text><text x="647.00" y="233.31" font-size="14" text-anchor="middle">1.94%</text><text x="773.00" y="60.00" font-size="14" text-anchor="middle">5.08%</text>
+</svg>
